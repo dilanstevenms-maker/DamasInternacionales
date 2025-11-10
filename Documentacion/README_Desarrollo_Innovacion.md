@@ -21,10 +21,10 @@ Se utilizó GitHub Desktop para clonar el repositorio, copiar el proyecto dentro
 
 Innovaciones implementadas
 
-Interfaz gráfica mediante Qt, lo que permite jugar visualmente sin consola.
-Movimientos mediante el mouse. El usuario selecciona y mueve fichas con clics.
-Aplicación de reglas del juego como turnos, movimientos válidos y coronación.
-Actualización automática del tablero. Cuando una ficha se mueve o es capturada el tablero refleja el cambio al instante sin acciones adicionales del usuario.
+- Interfaz gráfica mediante Qt, lo que permite jugar visualmente sin consola.
+- Movimientos mediante el mouse. El usuario selecciona y mueve fichas con clics.
+- Aplicación de reglas del juego como turnos, movimientos válidos y coronación.
+- Actualización automática del tablero. Cuando una ficha se mueve o es capturada el tablero refleja el cambio al instante sin acciones adicionales del usuario.
 
 Estas características permiten que el juego sea más claro, fácil de usar y agradable visualmente en comparación con una versión por consola.
 
