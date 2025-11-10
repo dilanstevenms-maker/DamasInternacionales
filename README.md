@@ -19,15 +19,13 @@ Características implementadas:
 
 Estructura del proyecto:
 
-DChinasClean
-│
+DamasInternacionales
 ├─ CMakeLists.txt
-│
 ├─ README.md
-│
 └─ src
    ├─ main.cpp
    ├─ boardview.h
    └─ boardview.cpp
+
 
 Este proyecto permite jugar una partida completa desde una interfaz gráfica sencilla.
