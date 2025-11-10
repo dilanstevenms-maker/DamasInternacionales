@@ -35,4 +35,14 @@ Innovaciones implementadas
 - Los movimientos se realizan con clics del mouse, lo cual facilita la interacción.
 - El tablero se actualiza automáticamente después de cada jugada, reflejando cambios de forma inmediata.
 - las fichas tienen color y forma.
+Justificación de la innovación
+
+¿Para qué se implementó?
+La interfaz gráfica y los movimientos con el mouse se implementaron para que el juego fuera más fácil de entender y jugar, cualquier persona puede entenderlo visualmente.
+
+¿Por qué se consideró necesario?
+Se consideró necesario porque una versión por consola puede ser confusa para el usuario y dificulta la verificación visual de las reglas, especialmente en capturas y coronaciones. La interfaz visual mejora la experiencia de uso y hace el juego más claro.
+
+¿Cómo se llevó a cabo su implementación?
+Se utilizó Qt para crear el tablero y dibujar las fichas. Cada casilla y ficha se representa como un elemento gráfico. Se programaron eventos de clic para seleccionar y mover fichas. Además, el tablero se actualiza automáticamente después de cada jugada para mostrar los cambios en tiempo real.
 
